@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi, Martin here
+### Sometimes you will see me with part of my first name on the Internet
 
+I'm currently a first-year student at the [University of British Columbia (Vancouver)](https://ubc.ca), pursuing a Bachelor in Science.
+
+I'm currently exploring the various fields in Computer Science as they are all fascinating and impactful on the world (we are as reliant on the Internet as oil currently).
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/martin0wong/), or at <takyuenwong.martin@gmail.com>.
+
+- Fun fact: I'm currently a lyric curator at [Musixmatch](https://www.musixmatch.com/), started contributing to lyrics, syncing and translation in 2021.
 <!--
 **martin0wong/martin0wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
