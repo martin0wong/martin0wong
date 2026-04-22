@@ -18,7 +18,7 @@ Still working on some fun stuff while I can squeeze out some time in my hectic s
 I was asked if a headcount was needed for the 2026 summer term as a further extension, but I have declined as I have landed an internship elsewhere for the summer (announcing soon!)
 
 ### Undergraduate Teaching Assistant @ Dept. of Physics & Astronomy, UBC
-Returning to be a UTA for PHYS 117 (Dynamics and Waves) in the 2025 Fall term originally, but reassigned to [PHYS 157 (Introductory Physics for Engineers I)](https://vancouver.calendar.ubc.ca/course-descriptions/subject/physv#:~:text=180%2C%20MATH%20184.-,PHYS_V%20157,-(3)%20Introductory) as the course was lacking enough TAs. 
+Returning to be a UTA for [PHYS 117 (Dynamics and Waves)](https://vancouver.calendar.ubc.ca/course-descriptions/subject/physv#:~:text=108%2C%20PHYS%20118.-,PHYS_V%20117,-(3)%20Dynamics) in the 2025 Fall term originally, but reassigned to [PHYS 157 (Introductory Physics for Engineers I)](https://vancouver.calendar.ubc.ca/course-descriptions/subject/physv#:~:text=180%2C%20MATH%20184.-,PHYS_V%20157,-(3)%20Introductory) as the course was lacking enough TAs. 
 Later assigned to teach [PHYS 158 (Introductory Physics for Engineers II)](https://vancouver.calendar.ubc.ca/course-descriptions/subject/physv#:~:text=180%2C%20MATH%20184.-,PHYS_V%20158,-(3)%20Introductory) for the 2026 Winter term.
 
 ### (Residence) Orientation Leader @ UBC
