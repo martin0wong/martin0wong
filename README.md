@@ -4,7 +4,7 @@ I'm currently a third-year student at the [University of British Columbia (Vanco
 
 I'm currently exploring the various fields in Computer Science and building up my technical stack, and here's some of the stuff that I have worked with in the past, from Secondary school onwards, some more recently acquired in my internships/hackathons (not ordered in fluency though).
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,scala,c,cpp,r,mysql,postgres,html,css,js,ts,react,vite,nodejs,bash,npm,docker,kubernetes,aws,azure,git&perline=16)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,scala,c,cpp,r,mysql,postgres,html,css,js,ts,react,vite,nodejs,pyspark,sparksql,spark,bash,npm,docker,kubernetes,aws,azure,git&perline=16&titles=true)
 
 ## Currently looking for 2026 Fall Internship Opportunities!
 Aiming for something in SWE or ML, mainly SWE though, since I have been doing quite some amount of data and some extent of SWE stuff at Ciena, and I would like to try some other fields out before I decide on what to hunt for newgrad (scary)!
@@ -27,8 +27,8 @@ I loved how impactful being an orientation leader for [Jumpstart](https://you.ub
 ### Setting up my website (finally!) and custom email domain
 Finally stopped procrastinating and bought my personal domain! I'm in the process of designing my website. I have some rough thoughts for it, but I have to look into the hows for implementation before tossing it to AI (vibe). Also, setting up/replacing the emails I am handing out for contact purposes.
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,vercel)](https://skillicons.dev)
+![](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,vercel&titles=true)
 
 I'm pretty sure I haven't lost any email in this period of change yet, but if you think you can't reach me anymore through email, please send me a DM through another channel that you know I'm on! Hint:
 
-[![](https://go-skill-icons.vercel.app/api/icons?i=discord,linkedin)](https://skillicons.dev)
+![](https://go-skill-icons.vercel.app/api/icons?i=discord,linkedin&titles=true)
