@@ -4,7 +4,7 @@ I'm currently a third-year student at the [University of British Columbia (Vanco
 
 I'm currently exploring the various fields in Computer Science and building up my technical stack, and here's some of the stuff that I have worked with in the past, from Secondary school onwards, some more recently acquired in my internships/hackathons (not ordered in fluency though).
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,scala,c,cpp,r,mysql,postgres,html,css,js,ts,react,vite,nodejs,pyspark,sparksql,spark,bash,npm,docker,kubernetes,aws,azure,git&perline=16&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,scala,c,cpp,r,mysql,postgres,html,css,js,ts,react,vite,nodejs,pyspark,sparksql,spark,hadoop,bash,npm,docker,kubernetes,aws,azure,git&perline=16&titles=true)
 
 ## Currently looking for 2026 Fall Internship Opportunities!
 Aiming for something in SWE or ML, mainly SWE though, since I have been doing quite some amount of data and some extent of SWE stuff at Ciena, and I would like to try some other fields out before I decide on what to hunt for newgrad (scary)!
