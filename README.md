@@ -1,6 +1,6 @@
 # Hi, Martin here
 
-I'm currently a third-year student at the [University of British Columbia (Vancouver)](https://ubc.ca), pursuing a Bachelor of Science in Computer Science and Statistics.
+I'm currently a fourth-year student at the [University of British Columbia (Vancouver)](https://ubc.ca), pursuing a Bachelor of Science in Computer Science and Statistics.
 
 I'm currently exploring the various fields in Computer Science and building up my technical stack, and here's some of the stuff that I have worked with in the past, from Secondary school onwards, some more recently acquired in my internships/hackathons (not ordered in fluency though).
 
